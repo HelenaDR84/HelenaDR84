@@ -1,7 +1,6 @@
 ### Hi there 🤗, I´m Helena de Rosa. 🎶🖥️🖱️🦄🌞
 ![IkaMusumeGIF](https://github.com/HelenaDR84/HelenaDR84/assets/149380974/dddff6b2-61b4-4805-ab59-10f84802b7cb)
 
-<!--
 # Hello, World!👋
 
 I'm Helena, a tech enthusiast and budding programmer. I'm currently honing my skills in Fullstack development at the Femcoders Norte Bootcamp at Factoría F5.
@@ -24,4 +23,4 @@ I believe soft skills are essential in all aspects of life. I strive to improve 
 
 ## 📫 How to Reach Me
 Feel free to connect with me on Linkdn  or send me an email at helenaderosa84@gmail.com.
--->
+
