@@ -22,5 +22,5 @@ My goal is to become a proficient developer and work on projects that I'm passio
 I believe soft skills are essential in all aspects of life. I strive to improve my communication and teamwork skills, and I believe a positive attitude can make a big difference in any project.
 
 ## 📫 How to Reach Me
-Feel free to connect with me on Linkdn  or send me an email at helenaderosa84@gmail.com.
+Feel free to connect with me on: https://www.linkedin.com/in/helena-de-rosa-08b3b929a/ or send me an email at helenaderosa84@gmail.com.
 
