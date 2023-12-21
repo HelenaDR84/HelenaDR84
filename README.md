@@ -14,6 +14,16 @@ I'm a woman in tech, passionate about learning and growing in the field. I belie
 
 ## 🌱 What I'm Learning
 I'm currently focused on learning and mastering Frontend and Backend development. I'm always open to learning new things and improving my skills.
+## Current Stack
+<p align="center">
+<img width="20%" src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,html,css,js,react,bootstrap,jest,github,git,php"/>
+  </a>
+</p>
 
 ## 💡 Goals
 My goal is to become a proficient developer and work on projects that I'm passionate about. I believe in setting realistic goals and working hard to achieve them.
@@ -22,5 +32,13 @@ My goal is to become a proficient developer and work on projects that I'm passio
 I believe soft skills are essential in all aspects of life. I strive to improve my communication and teamwork skills, and I believe a positive attitude can make a big difference in any project.
 
 ## 📫 How to Reach Me
-Feel free to connect with me on https://www.linkedin.com/in/helena-de-rosa-08b3b929a/ or send me an email at helenaderosa84@gmail.com.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/helena-de-rosa-08b3b929a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+
+Or send me an email at helenaderosa84@gmail.com.
 
