@@ -6,7 +6,6 @@
 
 I'm Helena, a tech enthusiast and budding programmer. I'm currently honing my skills in Fullstack development at the Femcoders Norte Bootcamp at Factoría F5.
 
-## 👓 About Me
 I'm a woman in tech, passionate about learning and growing in the field. I believe in setting realistic goals and working hard to achieve them. I'm driven by projects that excite me and strive to make them viable and something I can be proud of.
 
 ## 🛠 Skills
@@ -17,18 +16,17 @@ I'm a woman in tech, passionate about learning and growing in the field. I belie
 - **Version Control:** Proficient in Git for efficient code management.
 - **Testing:** Implementing unit testing to ensure code quality.
 
-## Current Stack
 <p align="center">
 <img width="20%" src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,html,css,js,react,bootstrap,jest,github,git,php,laravel"/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,html,css,js,react,bootstrap,jest,github,git,php,laravel,mysql"/>
   </a>
 </p>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 ![Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenaDR84&show_icons=true&theme=radical)
 <br>
 
