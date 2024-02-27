@@ -28,7 +28,8 @@ I'm a woman in tech, passionate about learning and growing in the field. I belie
 
 ## 📈 GitHub Stats
 ![Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenaDR84&show_icons=true&theme=radical)
-<br>
+<br> <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaDR84&layout=compact)
 
 ## 🔍Methodologies
 Experienced in Agile methodologies, having applied Scrum practices during project collaborations at Femcoders Norte Bootcamp.
