@@ -9,7 +9,7 @@ I'm Helena, a tech enthusiast and budding programmer. I'm currently honing my sk
 I'm a woman in tech, passionate about learning and growing in the field. I believe in setting realistic goals and working hard to achieve them. I'm driven by projects that excite me and strive to make them viable and something I can be proud of.
 
 ## 🛠 Skills
-- **Frontend Development**: Currently learning and improving. HTML5, CSS3, JAVASCRIPT.
+- **Frontend Development**: Currently learning and improving. HTML5, CSS3, JAVASCRIPT, REACT.
 -  **Backend Development:** On a journey to learn and master PHP and Laravel.
 - **Database:** Proficient in MySQL for efficient data storage and management.
 - **Tools:** Experienced with VSCode, Figma, collaborative development tools, and implementing best practices.
